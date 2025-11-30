@@ -1,1 +1,1 @@
-This is my first back-end project and it was mainly made for fun. 
+This is my first back-end project, it was mainly made for training but also to be fun.
