@@ -1,1 +1,1 @@
-# SinarDigital_BE_MiniProject1_Aaron-Adinoto_10
+This is my first back-end project and it was mainly made for fun. 
